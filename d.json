@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "image": "https://www.trumphotels.com/uploads/20470/0/cloudinary/trump-hotels-cloudinary/image/upload/x_0,y_0,w_1200,h_801,c_crop/c_fill,w_910,ar_65:38/v1600702332/w1wacfolv4f4p1ig3m5e.jpg",
+      "title": "Egg roll",
+      "about": "Take chapati and apply a teaspoon of the green chutney evenly on one side. Then, add sufficient amount of cooked vegetables in the middle of the chapati. Garnish with some raw onion slices and chopped coriander leaves, and wrap it tightly to make a roll. Repeat to make more such Kathi rolls and serve hot!"
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0524/2113/2440/articles/Biryani_Dish.png?v=1665641795",
+      "title": "Biriyani",
+      "about": "In a large pot, sauté sliced onions, whole spices (such as cinnamon, cardamom, and cloves), and minced ginger-garlic paste in oil or ghee.Add your choice of protein (chicken, beef, or vegetables) and cook until browned. Then, add soaked basmati rice, water, and biryani masala.Bring the mixture to a boil, then reduce heat, cover the pot, and let it simmer until the rice is cooked and the flavors are well infused.Serve the flavorful biryani hot, garnished with fried onions, fresh herbs, and a side of raita or yogurt. Enjoy!"
+    },
+    {
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2022/04/burger-fries.jpg?quality=82&strip=all",
+      "title": "Burger",
+      "about": "Preheat a grill or stovetop pan over medium-high heat.Season ground beef with salt, pepper, and any desired spices, then shape into patties.Cook the burger patties for about 4-5 minutes per side or until cooked to your desired level of doneness.Toast burger buns on the grill or in a toaster, then spread with desired condiments like mayo, ketchup, or mustard.Assemble the burger by placing the cooked patty on the bottom bun, adding cheese, lettuce, tomato, onion, and any other desired toppings. Top with the remaining bun, and your burger is ready to enjoy!"
+    },
+    {
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/3/21/0/fnd_pasta-istock.jpg.rend.hgtvcom.616.462.suffix/1490188710731.jpeg",
+      "title": "Noodle",
+      "about": "Boil chow mein noodles until al dente, then drain and set aside.Heat oil in a skillet, add minced garlic and sliced vegetables, and stir-fry until tender.Add protein (chicken, beef, shrimp, or tofu) and cook until cooked through.Mix in the cooked noodles and pour in a sauce made of soy sauce, oyster sauce, hoisin sauce, sugar, and black pepper.Toss everything together and cook for a few more minutes until well combined. Serve hot and enjoy!"
+    },
+    {
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/06/deep-dish-pizza-chicago.jpg",
+      "title": "Pizza",
+      "about": "Preheat your oven to the highest temperature setting (usually around 475°F or 245°C) and place a pizza stone or baking sheet inside to heat up.Roll out store-bought or homemade pizza dough into a round shape, then place it on a sheet of parchment paper.Spread pizza sauce over the dough and add your desired toppings such as cheese, vegetables, meats, and herbs.Carefully transfer the pizza on the parchment paper to the preheated baking stone or sheet and bake for 10-15 minutes, or until the crust is golden and the cheese is melted and bubbly.Remove the pizza from the oven, let it cool slightly, slice, and enjoy your homemade pizza!"
+    },
+    {
+      "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2022/01/Famous-Food-Of-South-India1.jpg",
+      "title": "Dosa",
+      "about": "Soak 2 cups of rice and 1/2 cup of urad dal in water overnight, then grind them separately into smooth pastes.Combine the rice and urad dal paste, add salt to taste, and let the batter ferment in a warm place for 6-8 hours or overnight.Heat a non-stick skillet or griddle on medium heat, pour a ladleful of the dosa batter, and spread it in a circular motion to form a thin, round dosa.Drizzle some oil around the edges of the dosa and cook until the bottom turns golden brown, then flip and cook the other side for a minute or so.Serve the crispy dosa hot with chutney and sambar for a delicious South Indian breakfast or snack."
+    },
+    {
+      "id": 1685642814453,
+      "image": "https://www.flavourstreat.com/wp-content/uploads/2020/06/kadai-paneer-recipe-05.jpg",
+      "title": "kadai paneer",
+      "about": "Heat oil in a pan and add cumin seeds, chopped onions, and sauté until golden brown. Add ginger-garlic paste, chopped tomatoes, and cook until the tomatoes are soft and oil separates. Add kadai masala, red chili powder, turmeric powder, and salt. Mix well. Add diced paneer, bell peppers, and cook for a few minutes until the paneer is coated with the masala and the bell peppers are slightly tender. Garnish with fresh coriander leaves and serve hot with naan or rice. Enjoy your delicious Kadai Paneer!"
+    }
+  ],
+  "ldata": [
+    {
+      "name": "animesh",
+      "pass": "kumar",
+      "id": 1
+    },
+    {
+      "name": "animesh",
+      "pass": "kumar1",
+      "id": 2
+    },
+    {
+      "name": "sss",
+      "pass": "sss",
+      "id": 1685641811576
+    }
+  ]
+}
